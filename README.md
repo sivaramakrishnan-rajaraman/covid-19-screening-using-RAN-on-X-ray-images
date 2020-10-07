@@ -10,9 +10,8 @@ If you find our project helpful please cite our arxiv report below:
     title={COVID-19 detection using Residual Attention Network an Artificial Intelligence approach},
     author={Vishal Sharma and Curtis Dyreson},
     year={2020},
-    eprint={2006.16106},
-    archivePrefix={arXiv},
-    primaryClass={eess.IV}
+    journal={19th International Conference on Machine Learning and Applications (ICMLA)}
+    publisher={IEEE}
     url={https://arxiv.org/pdf/2006.16106.pdf}
 }
 ```
