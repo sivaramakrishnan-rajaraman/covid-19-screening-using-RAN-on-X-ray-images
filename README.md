@@ -1,5 +1,5 @@
-# Covid-19-screening-using-Residual-Attention-Network-on-X-ray-images
-Covid-19 screening using Residual Attention Network on X-ray images
+# Covid-19-Screening-Using-Residual-Attention-Network-on-X-ray-Images
+Covid-19 Screening Using Residual Attention Network on X-ray Images
 
 
 ## Citation
