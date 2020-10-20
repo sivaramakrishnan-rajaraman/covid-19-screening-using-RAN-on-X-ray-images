@@ -7,7 +7,7 @@ If you find our project helpful please cite our ICMLA 2020 paper as below:
 
 ```
 @misc{sharma2020covid19,
-    title={COVID-19 Screening using Residual Attention Network an Artificial Intelligence approach},
+    title={COVID-19 Screening Using Residual Attention Network an Artificial Intelligence approach},
     author={Vishal Sharma and Curtis Dyreson},
     year={2020},
     journal={19th International Conference on Machine Learning and Applications (ICMLA)}
