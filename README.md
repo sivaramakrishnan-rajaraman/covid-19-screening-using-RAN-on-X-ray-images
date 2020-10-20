@@ -3,7 +3,7 @@ Covid-19 Screening Using Residual Attention Network on X-ray Images
 
 
 ## Citation
-If you find our project helpful please cite our arxiv report below:
+If you find our project helpful please cite our ICMLA 2020 paper as below:
 
 ```
 @misc{sharma2020covid19,
