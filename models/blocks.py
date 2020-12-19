@@ -1,3 +1,7 @@
+'''
+Source: https://github.com/qubvel/residual_attention_network
+'''
+
 from keras.layers import BatchNormalization
 from keras.layers import Conv2D
 from keras.layers import UpSampling2D
