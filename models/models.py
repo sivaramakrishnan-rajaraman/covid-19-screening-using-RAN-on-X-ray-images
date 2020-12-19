@@ -1,3 +1,7 @@
+'''
+Source: https://github.com/qubvel/residual_attention_network
+'''
+
 from keras.layers import Input
 from keras.layers import Conv2D
 from keras.layers import MaxPool2D
